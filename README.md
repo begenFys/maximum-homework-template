@@ -10,4 +10,4 @@ git clone https://github.com/begenFys/maximum-homework-template.git
 
 **Присылаешь ты мне потом ссылку на репозотрий или на папку в репозотории(в зависимости от того какое дз)**
 
-**По всем вопросам:** (@begenFys)[https://t.me/begenFys]
+**По всем вопросам:** [@begenFys](https://t.me/begenFys)
